@@ -20,7 +20,7 @@ So, based on our EDA, we might say that if a company were to market a new wine p
 * The customer Education background (Either graduate or Under graduate) -- Customers With Graduate level of education tends to buy more wines as this affect their income (i.e they tend to earn more money)
 * The income of each customers (Customer who earn much tends to buy Wines)
 * Age Feature: Customers below 100 years tends to Buy wines
-* Kidhome: Whether a customer has kid or not: Customer who don't have kid buy wines a lot: This could be because maybe wines could intoxicate thier children.![headway-5QgIuuBxKwM-unsplash](https://user-images.githubusercontent.com/73393430/177591914-cdd8544e-284d-4d7b-aa71-1fcbeaeaf749.jpg)
+* Kidhome: Whether a customer has kid or not: Customer who don't have kid buy wines a lot: This could be because maybe wines could intoxicate thier children.
 
 * Date Customer joined. Old customers tend to patronize the company
 * Whether a customer complain or not: Customer who dont complain buys a lot of wines than those who complain.
