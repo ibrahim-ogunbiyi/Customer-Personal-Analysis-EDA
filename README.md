@@ -28,4 +28,4 @@ So, based on our EDA, we might say that if a company were to market a new wine p
 To put it in a more story sense:
 The company should target old customers who has higher pay income, their educational level is of graduate.Also their age is below 100 years and as well they dont have children at home and they haven't complain at all.
 
-**Thank you for reading**
+**Thank you for reading.**
